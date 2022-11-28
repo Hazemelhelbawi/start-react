@@ -21,6 +21,7 @@ export default function Navbar() {
       <ul className="navbar-nav ms-auto mb-2 mb-lg-0">
         <li className="nav-item">
           <NavLink 
+<<<<<<< HEAD
           className="nav-link"  aria-current="page" to="portfolio">PORTFOLIO</NavLink>
         </li>
         <li className="nav-item ">
@@ -28,6 +29,15 @@ export default function Navbar() {
         </li>
         <li className="nav-item ">
           <NavLink  className="nav-link"  to="contact">CONTACT</NavLink>
+=======
+          className="nav-link" activeClassName="active" aria-current="page" to="portfolio">PORTFOLIO</NavLink>
+        </li>
+        <li className="nav-item ">
+          <NavLink   className="nav-link" activeClassName="active" to="about">ABOUT</NavLink>
+        </li>
+        <li className="nav-item ">
+          <NavLink  className="nav-link" activeClassName="active" to="contact">CONTACT</NavLink>
+>>>>>>> 09bec09309e393c8d77bb6980fd0266cbca5769d
         </li>
       </ul>
 
