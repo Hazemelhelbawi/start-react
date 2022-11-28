@@ -1,0 +1,30 @@
+[33mcommit f6ca3dfd934f1a258e16a03e54d82c257de3bb23[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: b84ba0f 09bec09
+Author: Hazemelhelbawi <hazemelhilbawi@gmail.com>
+Date:   Mon Nov 28 19:27:14 2022 +0200
+
+    new section added
+
+[33mcommit b84ba0fa6ce8fe8ae45f2371c45348eb9f391a94[m
+Author: Hazemelhelbawi <hazemelhilbawi@gmail.com>
+Date:   Mon Nov 28 18:58:33 2022 +0200
+
+    third commit
+
+[33mcommit 09bec09309e393c8d77bb6980fd0266cbca5769d[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Hazemelhelbawi <hazemelhilbawi@gmail.com>
+Date:   Mon Nov 28 18:49:44 2022 +0200
+
+    sec commit
+
+[33mcommit 3d18798160ba780acd9b14fe0450decb4f157d33[m
+Author: Hazemelhelbawi <hazemelhilbawi@gmail.com>
+Date:   Thu Nov 17 22:30:17 2022 +0200
+
+    initial commit
+
+[33mcommit cf812e9a4acb166311d53c81930e53c41c04902c[m
+Author: Hazemelhelbawi <hazemelhilbawi@gmail.com>
+Date:   Mon Nov 7 22:22:06 2022 +0200
+
+    Initialize project using Create React App
